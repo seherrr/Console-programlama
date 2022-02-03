@@ -1,0 +1,16 @@
+C:\Users\Seher\Desktop\Pratikler\algoritma-sorulari1\bin\Debug\net5.0\algoritma-sorulari1.exe
+C:\Users\Seher\Desktop\Pratikler\algoritma-sorulari1\bin\Debug\net5.0\algoritma-sorulari1.deps.json
+C:\Users\Seher\Desktop\Pratikler\algoritma-sorulari1\bin\Debug\net5.0\algoritma-sorulari1.runtimeconfig.json
+C:\Users\Seher\Desktop\Pratikler\algoritma-sorulari1\bin\Debug\net5.0\algoritma-sorulari1.runtimeconfig.dev.json
+C:\Users\Seher\Desktop\Pratikler\algoritma-sorulari1\bin\Debug\net5.0\algoritma-sorulari1.dll
+C:\Users\Seher\Desktop\Pratikler\algoritma-sorulari1\bin\Debug\net5.0\ref\algoritma-sorulari1.dll
+C:\Users\Seher\Desktop\Pratikler\algoritma-sorulari1\bin\Debug\net5.0\algoritma-sorulari1.pdb
+C:\Users\Seher\Desktop\Pratikler\algoritma-sorulari1\obj\Debug\net5.0\algoritma-sorulari1.csproj.AssemblyReference.cache
+C:\Users\Seher\Desktop\Pratikler\algoritma-sorulari1\obj\Debug\net5.0\algoritma-sorulari1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seher\Desktop\Pratikler\algoritma-sorulari1\obj\Debug\net5.0\algoritma-sorulari1.AssemblyInfoInputs.cache
+C:\Users\Seher\Desktop\Pratikler\algoritma-sorulari1\obj\Debug\net5.0\algoritma-sorulari1.AssemblyInfo.cs
+C:\Users\Seher\Desktop\Pratikler\algoritma-sorulari1\obj\Debug\net5.0\algoritma-sorulari1.csproj.CoreCompileInputs.cache
+C:\Users\Seher\Desktop\Pratikler\algoritma-sorulari1\obj\Debug\net5.0\algoritma-sorulari1.dll
+C:\Users\Seher\Desktop\Pratikler\algoritma-sorulari1\obj\Debug\net5.0\ref\algoritma-sorulari1.dll
+C:\Users\Seher\Desktop\Pratikler\algoritma-sorulari1\obj\Debug\net5.0\algoritma-sorulari1.pdb
+C:\Users\Seher\Desktop\Pratikler\algoritma-sorulari1\obj\Debug\net5.0\algoritma-sorulari1.genruntimeconfig.cache
