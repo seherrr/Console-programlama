@@ -1,0 +1,16 @@
+C:\Users\Seher\Desktop\Pratikler\ToDoApp\bin\Debug\net5.0\ToDoApp.exe
+C:\Users\Seher\Desktop\Pratikler\ToDoApp\bin\Debug\net5.0\ToDoApp.deps.json
+C:\Users\Seher\Desktop\Pratikler\ToDoApp\bin\Debug\net5.0\ToDoApp.runtimeconfig.json
+C:\Users\Seher\Desktop\Pratikler\ToDoApp\bin\Debug\net5.0\ToDoApp.runtimeconfig.dev.json
+C:\Users\Seher\Desktop\Pratikler\ToDoApp\bin\Debug\net5.0\ToDoApp.dll
+C:\Users\Seher\Desktop\Pratikler\ToDoApp\bin\Debug\net5.0\ref\ToDoApp.dll
+C:\Users\Seher\Desktop\Pratikler\ToDoApp\bin\Debug\net5.0\ToDoApp.pdb
+C:\Users\Seher\Desktop\Pratikler\ToDoApp\obj\Debug\net5.0\ToDoApp.csproj.AssemblyReference.cache
+C:\Users\Seher\Desktop\Pratikler\ToDoApp\obj\Debug\net5.0\ToDoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seher\Desktop\Pratikler\ToDoApp\obj\Debug\net5.0\ToDoApp.AssemblyInfoInputs.cache
+C:\Users\Seher\Desktop\Pratikler\ToDoApp\obj\Debug\net5.0\ToDoApp.AssemblyInfo.cs
+C:\Users\Seher\Desktop\Pratikler\ToDoApp\obj\Debug\net5.0\ToDoApp.csproj.CoreCompileInputs.cache
+C:\Users\Seher\Desktop\Pratikler\ToDoApp\obj\Debug\net5.0\ToDoApp.dll
+C:\Users\Seher\Desktop\Pratikler\ToDoApp\obj\Debug\net5.0\ref\ToDoApp.dll
+C:\Users\Seher\Desktop\Pratikler\ToDoApp\obj\Debug\net5.0\ToDoApp.pdb
+C:\Users\Seher\Desktop\Pratikler\ToDoApp\obj\Debug\net5.0\ToDoApp.genruntimeconfig.cache
